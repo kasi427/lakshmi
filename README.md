@@ -1,2 +1,4 @@
 # lakshmi
-day2 classs
+## heading2
+### heading3
+###### heading6
