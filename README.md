@@ -40,7 +40,7 @@ print("hello")
  {
  printf("hello world");
  return 0;
- }
+ ```
  ### inserting urls
 .[markdown sheet].(https://github.com/kasi427/lakshmi/edit/main/README.md)
 _ college web site link
