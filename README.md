@@ -43,7 +43,12 @@ print("hello")
  }
  ### inserting urls
 .[markdown sheet].(https://github.com/kasi427/lakshmi/edit/main/README.md)
-
+_ college web site link
+.[jntuk].(https://www.jntuk.edu.in/)
+_gmail link
+.[gmail].(https://accounts.google.com/ServiceLogin/signinchooser?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin)
+_ git official site url
+.[git].(https://www.google.com/search?q=git+-scm.com&oq=git+&aqs=chrome.2.69i59l3j69i60l5.5582j0j7&sourceid=chrome&ie=UTF-8)
 
 
 
