@@ -20,5 +20,7 @@ _*ece*_
     1. eeea
     2. eeeb
 3. cse
-   5. csea    
-   6. cseb
+    4. csea
+    5. cseb
+     
+   
