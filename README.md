@@ -33,7 +33,9 @@ _ eee
 ```python
 print("hello")
 ```
-
-
+### task insert a code of hello in c
+```c
+print("hello")
+```
      
    
