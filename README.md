@@ -24,11 +24,11 @@ _*ece*_
     2. cseb
 ### unorderd list
 _ ece
-    * ecea
-    * eceb
+    1. ecea
+    2. eceb
 _ eee
     + eeea
-    + eeeb
+    +  eeeb
     
 
      
