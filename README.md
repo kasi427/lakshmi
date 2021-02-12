@@ -35,11 +35,13 @@ print("hello")
 ```
 ### task insert a code of hello in c
 ```c
-#inciude<stdio.h>
-int a
-int b
- pritntf("enter a value a");
- printf ("enter a value b");
+ #include<stdio.h>
+ int main()
+ {
+ printf("hello world");
+ return 0;
+ }
+ 
 
      
    
